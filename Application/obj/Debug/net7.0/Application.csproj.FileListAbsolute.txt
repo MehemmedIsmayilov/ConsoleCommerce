@@ -1,0 +1,17 @@
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\bin\Debug\net7.0\Application.dll
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\obj\Debug\net7.0\Application.dll
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\bin\Debug\net7.0\Core.dll
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\bin\Debug\net7.0\Data.dll
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\bin\Debug\net7.0\Data.pdb
+C:\Users\Mehemmed\OneDrive\Masaüstü\consol_trening\ConsoleCommerceApp\Application\bin\Debug\net7.0\Core.pdb
